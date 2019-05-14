@@ -1,0 +1,32 @@
+body{
+	background:url(../imagenes/azul1.jpg);
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+background-size: 100% 100%; 
+
+	
+}
+header nav {
+	background:#528FD5;
+	overflow:hidden;
+	
+}
+
+header nav ul {
+	list-style:none;
+	
+}
+header nav ul li {
+	float:left;
+	
+}
+	
+header nav ul li a {
+	padding:10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration:none;
+}
+header nav ul li a:hover {
+	background:#75ACEC;
+}
